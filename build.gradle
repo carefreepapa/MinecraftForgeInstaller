@@ -25,7 +25,7 @@ repositories {
 }
 
 group = 'net.minecraftforge'
-archivesBaseName = 'installer'
+archivesBaseName = 'minecraft-forge-installer'
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
 
 license {
