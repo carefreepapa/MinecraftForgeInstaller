@@ -34,7 +34,8 @@ license {
   newLine false
 }
 
-version = gradleutils.getTagOffsetBranchVersion(null, 'master', 'HEAD', '2.0')
+//version = gradleutils.getTagOffsetBranchVersion(null, 'master', 'HEAD', '2.0')
+version = '2.0.0'
 println('Installer Version: ' + version)
 
 ext {
